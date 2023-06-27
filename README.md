@@ -12,6 +12,9 @@
 # git tag 0.1 9f4590d06de5573b7d4f551b2d708045b66dcfa3
 # git push origin 0.1
 
+# git tag 0.2 543e7638331fdf095915075634c84c19904c6f85
+# git push origin 0.2
+
 go install github.com/hfbhfb/go-version-test@0.1
 go-version-test
 go install github.com/hfbhfb/go-version-test@0.2
